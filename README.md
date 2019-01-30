@@ -21,4 +21,5 @@ Then, fire up vim and run `:PluginInstall`, to let **Vundle** to the rest for yo
 ## Screenshots
 ![Bazel with Vim](https://github.com/Stupremee/vimrc-improved/blob/master/screenshots/vim_bazel.png)
 ![Cpp with Vim](https://github.com/Stupremee/vimrc-improved/blob/master/screenshots/vim_cpp.png)
-![File Explorer](https://github.com/Stupremee/vimrc-improved/blob/master/screenshots/vim_cpp.png)
+![File Explorer](https://github.com/Stupremee/vimrc-improved/blob/master/screenshots/vim_file.png)
+
