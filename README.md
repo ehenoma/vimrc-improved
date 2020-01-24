@@ -21,3 +21,8 @@ You will also have to get the Vundle Plugin Manager by running
 
 Then, fire up vim and run `:PluginInstall`, to let **Vundle** to the rest for you. After this completed, you just have to do one thing more: Head into `~/.vim/bundles/YouCompleteMe` and run `python3 install.py`. If you want *YouCompleteMe* to support Java, Go, C#, etc, check out the *YouCompleteInstallation Guide*.
 
+## Screenshots
+![Bazel with Vim](https://github.com/Stupremee/vimrc-improved/blob/master/screenshots/vim_bazel.png)
+![Cpp with Vim](https://github.com/Stupremee/vimrc-improved/blob/master/screenshots/vim_cpp.png)
+![File Explorer](https://github.com/Stupremee/vimrc-improved/blob/master/screenshots/vim_file.png)
+
